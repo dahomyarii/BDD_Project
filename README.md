@@ -6,10 +6,9 @@ It is based on coursework from IBM's *Introduction to BDD* course on Coursera an
 
 ---
 
-## 📚 What’s Included
+## What’s Included
 
-- `calculator.py` – Core logic for basic calculator operations
-- `test_calculator.py` – Unit tests using Python’s `unittest` framework
+- 13 Testing lab
 - `features/` – BDD scenarios using `behave`, including:
   - `.feature` files for behavior specifications
   - Step definitions for linking behavior to Python code
@@ -19,7 +18,7 @@ It is based on coursework from IBM's *Introduction to BDD* course on Coursera an
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 1. **Clone the repo**
 
@@ -60,7 +59,7 @@ behave
 
 ---
 
-## 🎓 Learning Goals
+## Learning Goals
 
 This project helped reinforce:
 
@@ -71,17 +70,26 @@ This project helped reinforce:
 
 ---
 
-## ✍️ Modifications by Me
+## Modifications by Me
 
 This project was originally provided by [IBM Developer Skills Network](https://github.com/ibm-developer-skills-network/duwjx-tdd_bdd_PracticeCode/)  
 Modifications and enhancements were made by **[@dahomyarii](https://github.com/dahomyarii)** in 2025.
 
 ---
 
-## 📜 License
+
+## License
 
 This project is based on code licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
 
 - See the [`LICENSE`](LICENSE) file for full license terms.
 - See the [`NOTICE`](NOTICE) file for attribution details.
 
+---
+
+## Credits
+
+This project is based on the work and course materials provided by
+[IBM Developer Skills Network](https://github.com/ibm-developer-skills-network)
+
+Connect with him on LinkedIn: [John Rofrano](https://www.linkedin.com/in/JohnRofrano/)
